@@ -1,2 +1,2 @@
-# C28-CLASS
-Constrained between a point and a body
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
